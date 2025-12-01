@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,3 +39,4 @@ foreach ($students as $student) {
 
 </body>
 </html>
+=======
